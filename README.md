@@ -7,7 +7,13 @@
 - <b>Microsoft Sentinal - geo data tracking and mapping</b>
   - [Sentinel in Azure](https://github.com/DLbaker91/LABURL)
 
+<h2>👨‍💻 Certifications:</h2>
+  
+  - [CompTIA Security+](https://www.credly.com/badges/07d4505f-6507-439c-95b8-5aae0f75dbf1/public_url)
+  - [IBM Cybersecurity Analyst (Professional Certificate](https://coursera.org/share/b32a3911433717a0a9112df9d5df30ee)
+  - [Google IT Support (Professional Certificate](https://coursera.org/share/181bb9da02f1eec05f3cefd21839c1b4)
 
+  
 
 <h2> 🤳 Connect with me:</h2>
 
