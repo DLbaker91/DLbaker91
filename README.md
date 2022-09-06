@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Active Directory Home Lab</b>
-  - [AD DC set up in VirtualBox](https://github.com/DLbaker91/LABURL)
+  - [AD DC set up in VirtualBox](https://github.com/DLbaker91/ActiveDirectoryLab/blob/main/README.md)
 - <b>Microsoft Sentinal - geo data tracking and mapping</b>
   - [Sentinel in Azure](https://github.com/DLbaker91/LABURL)
 
